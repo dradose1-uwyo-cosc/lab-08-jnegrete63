@@ -1,9 +1,9 @@
-# [Name]
-## [Assignment #]
+# [Jose F. Negrete Osegeura]
+## [Assignment Lab 08]
 ## [Submission date: MM/DD/YY]
 ## Worked with/sources 
-* example
-* example
+* TA's
+* AI
 * example
 * example
 ## Project Quirks/ Things that don't work
